@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gerard892.github.io/striptyz-blog/sitemap.xml
+Sitemap: https://striptyz-blog.cz/sitemap.xml
