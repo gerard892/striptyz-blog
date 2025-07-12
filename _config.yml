@@ -1,7 +1,6 @@
 title: "Striptýz blog Praha"
 description: "Blog o striptýzu, erotických show a rozlučkách se svobodou v Praze"
 url: "https://striptyz-blog.cz"
-baseurl:
 
 permalink: /:title/
 markdown: kramdown
