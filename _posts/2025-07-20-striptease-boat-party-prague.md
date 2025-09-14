@@ -1,9 +1,10 @@
 ---
 title: "Striptease on a Boat in Prague – A Floating Party Experience"
 description: "Enjoy a private striptease show during a boat cruise in Prague. Celebrate birthdays, bachelor parties or private events on the Vltava with style."
-date: 2025-07-20
-categories: [striptease, Prague, boat-party, nightlife]
-tags: [striptease Prague, boat party, private show]
+keywords: [striptease Prague, boat party, private show]
+permalink: /striptease-boat-party-prague/
+author: "Striptyz Show"
+lang: "en"
 ---
 
 # Striptease on a Boat in Prague – A Floating Party Experience
