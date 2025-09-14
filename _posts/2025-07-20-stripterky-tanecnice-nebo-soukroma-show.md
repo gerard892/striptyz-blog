@@ -2,6 +2,8 @@
 title: "Striptérky: tanečnice u tyče nebo hvězdy soukromých večírků?"
 description: "Zjistěte, kdo jsou moderní striptérky – profesionálky pole dance nebo zábava na soukromých večírcích. Vyberte si top striptérku pro svou párty."
 permalink: /stripterky-tanecnice-nebo-soukroma-show/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Striptérky: tanečnice u tyče nebo hvězdy soukromých večírků?
