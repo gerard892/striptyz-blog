@@ -1,9 +1,10 @@
 ---
 title: "Objednejte si vzrušující striptýz v Pardubicích – Show na míru pro každý večírek"
 description: "Plánujete nezapomenutelnou párty? Objednejte si špičkový striptýz v Pardubicích a užijte si profesionální erotickou show na úrovni."
-date: 2025-07-20
-categories: [striptýz, Pardubice, večírky, rozlučky]
-tags: [striptýz Pardubice, erotická show, strip party]
+keywords: [striptýz Pardubice, erotická show, strip party]
+permalink: /objednejte-striptyz-pardubice/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Objednejte si vzrušující striptýz v Pardubicích – Show na míru pro každý večírek
