@@ -2,6 +2,7 @@
 title: "Naposled na volné noze v Plzni – Last time on the loose in Pilsen"
 description: "Plánujete rozlučku se svobodou v Plzni? Užijte si nezapomenutelný večer plný zábavy, přátel a pořádného programu, než řeknete své ano."
 keywords: [rozlučka se svobodou Plzeň, strip show, párty v Plzni]
+permalink: /naposled-na-volne-noze-plzen/
 author: "Striptyz Show"
 lang: "cs"
 ---
