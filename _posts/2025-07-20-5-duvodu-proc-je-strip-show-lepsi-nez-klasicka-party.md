@@ -2,6 +2,8 @@
 title: "5 důvodů, proč je strip show lepší než klasická párty"
 description: "Klasická oslava? Nuda! Zjisti, proč je strip show zábavnější, nezapomenutelnější a ideální pro každou rozlučku nebo narozeniny."
 permalink: /5-duvodu-proc-je-strip-show-lepsi-nez-klasicka-party/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # 5 důvodů, proč je strip show lepší než klasická párty
