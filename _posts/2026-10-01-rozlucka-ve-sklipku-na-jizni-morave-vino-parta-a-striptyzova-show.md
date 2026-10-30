@@ -10,7 +10,7 @@ tags:
   - jizni-morava
   - party-program
 permalink: /rozlucka-ve-sklipku-na-jizni-morave-striptyzova-show/
-date: 2025-01-01
+date: 2026-10-01
 ---
 
 # Rozlučka ve sklípku na jižní Moravě: Víno, parta přátel a překvapení v podobě show
